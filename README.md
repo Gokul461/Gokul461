@@ -39,9 +39,8 @@ A passionate Software Engineer
 <a href="https://www.codechef.com/users/gokulnath007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gokulnath007" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gokulnath4611231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gokulnath4611231" height="30" width="40" /></a> 
 </p>  
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul461&theme=blue-green" width=420 height=320/>
-
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/gokulnath461?theme=dark&font=Roboto%20Mono&ext=heatmap) 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul461&theme=blue-green" width=420 height=320/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gokul461&bg_color=000000&color=2dedfb&line=00e1ff&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
