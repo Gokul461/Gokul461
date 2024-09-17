@@ -12,8 +12,12 @@ A passionate Software Engineer
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Python, Web developement, Data analysis and AIML
 - 📫 How to reach me :
-<br />[<img src="https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:gokulnath461123456@gmail.com)
- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/gokulnath-s-b57313264)
+<br /><a href="mailto:gokulnath461123456@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a> <a href="https://www.linkedin.com/in/gokulnath-s-b57313264" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese...
 
