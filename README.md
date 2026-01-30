@@ -1,29 +1,41 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" height="800" />
-</p>
-
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" height="800" />
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">Hey Coders!! 
  👋, I'm Gokulnath.S</h1>
 
 <h3 align="center">A Passionate Software Engineer </h3>
+<br/>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://gokulportfolio-ten.vercel.app/)
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on ML/AI
-- 🤔 I’m looking for help with Placements in FAANG
-- 💬 Ask me about Python, Web developement, Data analysis and AIML
-- 📫 How to reach me :
-<br /><a href="mailto:gokulnath461123456@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a> <a href="https://www.linkedin.com/in/gokulnath-s-b57313264" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<div align="center">
+
+</div>
+
+### 👨‍💻 About Me
+  
+<div align="left">
+<ul>
+  <li>🔭 Check out my <b><a href="https://gokulportfolio-ten.vercel.app/">Portfolio</a></b></li>
+  <li>🌱 Currently learning <b>DSA & System Design</b></li>
+  <li>👯 Looking to collaborate on <b>ML / AI Projects</b></li>
+  <li>🤔 Seeking guidance for <b>FAANG Placements</b></li>
+  <li>💬 Ask me about <b>Python, Web Dev, Data Analysis & AIML</b></li>
+  <li>😄 Pronouns: <b>Techie</b></li>
+  <li>⚡ Fun fact: <b>I know Japanese 🇯🇵</b></li>
+</ul>
+📫 <b>How to reach me:</b><br/><br/>
+<a href="mailto:gokulnath461123456@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
-- 😄 Pronouns: Techie
-- ⚡ Fun fact: I know Japanese...
-
-
+<a href="https://www.linkedin.com/in/gokulnath-s-b57313264" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</div>
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/> <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
