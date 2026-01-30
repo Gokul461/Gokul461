@@ -1,10 +1,12 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" height="800" />
+</p>
 
 
 <h1 align="center">Hey Coders!! 
  👋, I'm Gokulnath.S</h1>
 
-A passionate Software Engineer 
+<h3 align="center">A Passionate Software Engineer </h3>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://gokulportfolio-ten.vercel.app/)
 - 🌱 I’m currently learning DSA
@@ -44,7 +46,12 @@ A passionate Software Engineer
 <a href="https://www.hackerrank.com/gokulnath4611231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gokulnath4611231" height="30" width="40" /></a> 
 </p>  
 
+## 📊 GitHub & Coding Stats
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/gokulnath461?theme=dark&font=Roboto%20Mono&ext=heatmap)
 </br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gokul461&bg_color=000000&color=2dedfb&line=00e1ff&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+⭐ **If you like my profile, don’t forget to star my repositories!**
