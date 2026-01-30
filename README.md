@@ -46,6 +46,5 @@ A passionate Software Engineer
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/gokulnath461?theme=dark&font=Roboto%20Mono&ext=heatmap)
 </br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul461&theme=blue-green" width=420 height=320/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gokul461&bg_color=000000&color=2dedfb&line=00e1ff&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
