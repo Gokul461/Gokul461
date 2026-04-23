@@ -38,25 +38,53 @@
 </div>
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/> <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/opencv.png" /> 
+<p align="left">
+  <img height="50" src="https://img.icons8.com/color/48/python.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/numpy.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/pandas.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/html-5.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/css3.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/bootstrap.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/javascript.png"/>
+</p>
 
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>  <img height="50" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
-<img height="50" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /> <img height="50" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />  <img height="50" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>  <img height="50" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-
+<p align="left">
+  <img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/pycharm.png"/>
+  <img height="50" src="https://img.icons8.com/color/50/git.png"/>
+  <img height="50" src="https://img.icons8.com/dusk/64/anaconda.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/figma--v1.png"/>
+</p>
+<p align="left">
+  <img height="28" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> 
+  <img height="28" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+  <img height="28" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
+  <img height="28" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> 
+  <img height="28" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img height="28" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/> 
+  <img height="28" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+</p>
 
 
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Asus%20Vivobook%2015_M1-ED1C24?style=for-the-badge&logo=asus&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7_5800Hs-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 <h3 align="left">My Coding spots:</h3>
+
 <p align="left">
-<a href="https://www.leetcode.com/gokulnath461" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gokulnath461" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/gokulnath007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gokulnath007" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gokulnath4611231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gokulnath4611231" height="30" width="40" /></a> 
-</p>  
+  <a href="https://www.leetcode.com/gokulnath461" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35"/>
+  </a>
+  <a href="https://www.codechef.com/users/gokulnath007" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="35"/>
+  </a>
+  <a href="https://www.hackerrank.com/gokulnath4611231" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35"/>
+  </a>
+</p>
 
 ## 📊 GitHub & Coding Stats
 
