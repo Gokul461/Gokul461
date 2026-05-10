@@ -1,97 +1,154 @@
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" height="800" />
-    </td>
-  </tr>
-</table>
-
-<h1 align="center">Hey Coders!! 
- 👋, I'm Gokulnath.S</h1>
-
-<h3 align="center">A Passionate Software Engineer </h3>
-<br/>
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 <div align="center">
 
+<!-- Animated Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050810,50:0f1629,100:00e5ff&height=200&section=header&text=GOKULNATH%20S&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20AI%20Developer%20%7C%20SDET%20Intern%20%40%20Cognizant&descAlignY=58&descColor=a78bfa&descSize=17"/>
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer+%F0%9F%9A%80;AI+%2F+LLM+Application+Developer+%F0%9F%A4%96;React+%7C+Spring+Boot+%7C+REST+APIs+%E2%9A%A1;Building+Intelligent+Systems+%F0%9F%A7%A0;Open+for+FAANG+%26+AI+Opportunities+%F0%9F%8E%AF" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulnath461123456@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokulnath-s-b57313264)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://gokulportfolio-ten.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/gokulnath461)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/gokulnath4611231)
+
+![Profile Views](https://komarev.com/ghpvc/?username=gokul461&label=Profile+Views&color=00e5ff&style=flat-square)
+
 </div>
 
-### 👨‍💻 About Me
-  
-<div align="left">
-<ul>
-  <li>🔭 Check out my <b><a href="https://gokulportfolio-ten.vercel.app/">Portfolio</a></b></li>
-  <li>🌱 Currently learning <b>DSA & System Design</b></li>
-  <li>👯 Looking to collaborate on <b>ML / AI Projects</b></li>
-  <li>🤔 Seeking guidance for <b>FAANG Placements</b></li>
-  <li>💬 Ask me about <b>Python, Web Dev, Data Analysis & AIML</b></li>
-  <li>😄 Pronouns: <b>Techie</b></li>
-  <li>⚡ Fun fact: <b>I know Japanese 🇯🇵</b></li>
-</ul>
-📫 <b>How to reach me:</b><br/><br/>
-<a href="mailto:gokulnath461123456@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/gokulnath-s-b57313264" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+---
+
+## 🧠 About Me
+
+```typescript
+const gokulnath = {
+  role       : "Full Stack AI Developer",
+  company    : "Cognizant GenC Next — SDET Intern",
+  education  : "B.E. CSE @ PSNA CET  |  CGPA: 8.7 / 10  |  2022–2026",
+  location   : "Tamil Nadu, India 🇮🇳",
+  stack      : ["React", "Spring Boot", "Angular", "Python", "TypeScript"],
+  currentFocus: ["DSA & System Design", "LLM Workflows", "AI-Native Apps"],
+  goals      : ["FAANG Placement 🎯", "ML/AI Collaboration", "Open Source"],
+  funFact    : "I speak Japanese 🇯🇵",
+};
+```
+
+---
+
+## 💼 Work Experience
+
+| 🏢 Company | 🎯 Role | 📅 Duration |
+|---|---|---|
+| **Cognizant (GenC Next)** | SDET Intern | Feb 2026 – Present |
+| **Infoziant** | Full Stack Developer Intern | Jan 2026 |
+| **Steinn Labs** | Software Developer Intern | Feb – May 2025 |
+
+**Cognizant** → Training in Java, Spring Boot, Selenium & Cucumber · API validation & backend integration testing
+
+**Infoziant** → Built role-based React modules + REST APIs for a multi-user healthcare platform
+
+**Steinn Labs** → React.js + Tailwind components for BRITE (US-based healthcare SaaS) · Agile delivery
+
+---
+
+## 🚀 Featured Projects
+
+| 🔬 Project | 💡 What it does | 🛠 Stack |
+|---|---|---|
+| **🤖 RAG Document QA** | End-to-end pipeline: doc ingestion → chunking → vector search → context-aware answers | Python, LLM, Vector DB |
+| **🏥 SmartFlow** | Full-stack hospital queue management with Spring Boot + Angular, complete auth & role-based authorization, multi-role workflows end to end | Spring Boot, Angular, REST |
+| **👨‍💼 Employee Management** | Full-stack CRUD with optimised Spring Boot + React + MySQL backend | Java, Spring Boot, React |
+| **♿ VoVi-Move ML** | Voice-controlled assistive wheelchair (75% accuracy) — Karpagam Expo 2024 demo | TensorFlow, Vosk, CNN |
+
+---
+
+## 🛠 Tech Stack
+
+### Languages & Core
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Cloud
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS_(Basics)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker_(Basics)-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### AI / Data / Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🥇 1st Prize | 🏅 Special Prize | 🥈 Runner-up | 🎤 Expo Speaker |
+|:---:|:---:|:---:|:---:|
+| Idea Fest 2024 | Impairathon Hackathon *(National)* | YAR Tech Hackathon | Karpagam Expo 2024 — 1000+ attendees |
+
 </div>
 
-### I code in
-<p align="left">
-  <img height="50" src="https://img.icons8.com/color/48/python.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/numpy.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/pandas.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/html-5.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/css3.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/bootstrap.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/javascript.png"/>
-</p>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
 
 
-### IDE and Tools I Use
-<p align="left">
-  <img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/pycharm.png"/>
-  <img height="50" src="https://img.icons8.com/color/50/git.png"/>
-  <img height="50" src="https://img.icons8.com/dusk/64/anaconda.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/figma--v1.png"/>
-</p>
-<p align="left">
-  <img height="28" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> 
-  <img height="28" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-  <img height="28" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
-  <img height="28" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> 
-  <img height="28" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img height="28" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/> 
-  <img height="28" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-</p>
+<img width="49%" src="https://streak-stats.demolab.com?user=gokul461&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=a78bfa&currStreakLabel=00e5ff&sideLabels=a78bfa&dates=64748b"/>
 
+</div>
 
-### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Asus%20Vivobook%2015_M1-ED1C24?style=for-the-badge&logo=asus&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7_5800Hs-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+---
 
-<h3 align="left">My Coding spots:</h3>
+## ⚡ LeetCode Stats
 
-<p align="left">
-  <a href="https://www.leetcode.com/gokulnath461" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35"/>
-  </a>
-  <a href="https://www.codechef.com/users/gokulnath007" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="35"/>
-  </a>
-  <a href="https://www.hackerrank.com/gokulnath4611231" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35"/>
-  </a>
-</p>
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/gokulnath461?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=8"/>
+</div>
 
-## 📊 GitHub & Coding Stats
+---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/gokulnath461?theme=dark&font=Roboto%20Mono&ext=heatmap)
-</br>
+## 📈 Activity Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gokul461&bg_color=000000&color=2dedfb&line=00e1ff&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gokul461&bg_color=0d1117&color=00e5ff&line=a78bfa&point=ffffff&area_color=00e5ff&area=true&hide_border=true"/>
+</div>
 
+---
 
-⭐ **If you like my profile, don’t forget to star my repositories!**
+<div align="center">
+
+### 💬 Let's build something intelligent together!
+
+[![Say Hello](https://img.shields.io/badge/Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulnath461123456@gmail.com)
+[![Connect](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokulnath-s-b57313264)
+[![Portfolio](https://img.shields.io/badge/See%20My%20Work-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://gokulportfolio-ten.vercel.app/)
+
+<br/>
+
+⭐ **Star my repos if you find them useful — it keeps me building!**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:a78bfa,100:050810&height=110&section=footer"/>
+
+</div>
+
