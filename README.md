@@ -98,11 +98,11 @@ I'm a **Software Engineer** from Tamil Nadu, India 🇮🇳, currently interning
 
 | Project | What It Does | Stack | Links |
 |---|---|---|---|
-| 👨‍💼 **Employee Management** | Full CRUD system with JWT auth, optimized SQL queries, and clean React UI | Java · Spring Boot · React · MySQL | [Repo](#) · [Live](#) |
-| 🏥 **SmartFlow** | Hospital queue management with RBAC, real-time updates, appointment scheduling & live tracking | Spring Boot · Angular · REST APIs · MySQL | [Repo](#) · [Live](#) |
-| 🛒 **FashionMart** | Responsive e-commerce with Firebase auth, search/filter, cart, wishlist & checkout | React · Firebase · HTML/CSS | [Repo](#) · [Live](#) |
-| 🤖 **RAG Document QA** | Document ingestion → chunking → vector search → context-aware answers via Python API | Python · LLM · Vector DB | [Repo](#) |
-| ♿ **VoVi-Move ML** | Voice-controlled assistive wheelchair — 75% accuracy, demoed at Karpagam Expo 2024 | TensorFlow · Vosk · CNN | [Repo](#) |
+| 👨‍💼 **Employee Management** | Full CRUD system with JWT auth, optimized SQL queries, and clean React UI | Java · Spring Boot · React · MySQL | [Repo](https://github.com/Gokul461/Employee-management-System-java-fse-) |
+| 🏥 **SmartFlow** | Hospital queue management with RBAC, real-time updates, appointment scheduling & live tracking | Spring Boot · Angular · REST APIs · MySQL | [Repo](https://github.com/Gokul461/SmartFlow-HQMS) |
+| 🛒 **FashionMart** | Responsive e-commerce with Firebase auth, search/filter, cart, wishlist & checkout | React · Firebase · HTML/CSS | [Repo](https://github.com/Gokul461/Fashion-Mart) |
+| 🤖 **DocMind a RAG Document QA** | Document ingestion → chunking → vector search → context-aware answers via Python API | Python · LLM · Vector DB | [Repo](https://github.com/Gokul461/DocMind-RAG-Document-Assistant) |
+| ♿ **VoVi-Move ML** | Voice-controlled assistive wheelchair — 75% accuracy, demoed at Karpagam Expo 2024 | TensorFlow · Vosk · CNN | [Repo](https://github.com/Gokul461/VoVi-Mover) |
 
 <br/>
 
